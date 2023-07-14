@@ -1,2 +1,4 @@
 this is file2.txt
 New line in local repository
+New line in local GitHub
+
